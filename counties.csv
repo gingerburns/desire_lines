@@ -1,4 +1,4 @@
-Origin_ID,name,city,state,country,latitude,longitude
+iata,name,city,state,country,latitude,longitude
 48329,Midland,,TX,US,31.86913691,-102.0315952
 48439,Tarrant,,TX,US,32.771561,-97.29122712
 48113,Dallas,,TX,US,32.76663248,-96.77787632
